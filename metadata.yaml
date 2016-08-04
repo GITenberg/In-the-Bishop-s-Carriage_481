@@ -1,0 +1,34 @@
+_repo: In-the-Bishop-s-Carriage_481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Michelson, Miriam
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '259'
+    url: http://www.gutenberg.org/2009/agents/259
+description: '"Growing up a hard life as an orphan, Nancy Olden falls into the wrong
+  crowd and a life of crime. She''s quick on her feet and quick with her tongue, talking
+  herself out of trouble most of the time. Through a series of misadventures (she''s
+  not THAT successful a con artist, really), she begins to rely on the kindness of
+  strangers and slowly straightens her life out. She has only one last scam to play
+  in order to help those who have helped her. Will Nancy be able to save the day?
+  Or will this be the job to finally send her up the river to the big house?"--Amazon.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Theft -- Fiction'
+- GITenberg
+title: In the Bishop's Carriage
+url: http://www.gutenberg.org/ebooks/481
